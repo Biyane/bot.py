@@ -1,7 +1,6 @@
 import os
 from telegram.ext import Updater, ConversationHandler, CommandHandler, MessageHandler, Filters
-import os
-from telegram.ext import Updater, ConversationHandler, CommandHandler, MessageHandler, Filters
+
 
 INITIAl, MIDDLE, FINAL = range(3)
 
